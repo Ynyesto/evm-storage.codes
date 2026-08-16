@@ -2133,7 +2133,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@openzeppelin/upgrades-core@npm:^1.44.2":
+"@openzeppelin/upgrades-core@npm:^1.46.0":
   version: 1.46.0
   resolution: "@openzeppelin/upgrades-core@npm:1.46.0"
   dependencies:
@@ -3744,7 +3744,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:^19.2.7":
+"@types/react@npm:^19.2.17":
   version: 19.2.18
   resolution: "@types/react@npm:19.2.18"
   dependencies:
@@ -6427,7 +6427,7 @@ __metadata:
     "@babel/preset-env": "npm:^7.28.5"
     "@eslint/js": "npm:^10.0.1"
     "@fontsource-variable/pixelify-sans": "npm:^5.2.7"
-    "@openzeppelin/upgrades-core": "npm:^1.44.2"
+    "@openzeppelin/upgrades-core": "npm:^1.46.0"
     "@radix-ui/react-dialog": "npm:^1.1.15"
     "@radix-ui/react-popover": "npm:^1.1.15"
     "@radix-ui/react-select": "npm:^2.2.6"
@@ -6439,7 +6439,7 @@ __metadata:
     "@types/babel__preset-env": "npm:^7.10.0"
     "@types/color-hash": "npm:^2.0.0"
     "@types/node": "npm:^22.19.2"
-    "@types/react": "npm:^19.2.7"
+    "@types/react": "npm:^19.2.17"
     "@types/react-dom": "npm:^19.2.3"
     "@upstash/redis": "npm:^1.38.0"
     "@vercel/analytics": "npm:^2.0.1"
